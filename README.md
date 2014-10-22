@@ -295,7 +295,7 @@ Reveal.configure({
 ```
 
 
-### API
+### API======================================================================================================================================
 
 The ``Reveal`` class provides a JavaScript API for controlling navigation and reading state:
 
